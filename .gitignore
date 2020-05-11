@@ -1,3 +1,6 @@
-node_modules
 
-fun-stuff
+#dependency
+node_modules/
+
+#settings
+fun-stuff/
